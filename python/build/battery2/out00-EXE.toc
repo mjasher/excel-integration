@@ -1,0 +1,9 @@
+('C:\\Users\\Mike\\Desktop\\excel\\python\\build\\battery2\\battery2.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1432772588L)
