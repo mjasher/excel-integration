@@ -1,9 +1,0 @@
-('C:\\Users\\Mike\\Desktop\\excel\\python\\build\\battery\\battery.exe',
- True,
- False,
- None,
- None,
- [],
- None,
- False,
- 1432772598L)
